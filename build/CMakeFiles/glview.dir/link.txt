@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/glview.dir/src/glview.c.o -o glview  /usr/lib/x86_64-linux-gnu/libglut.so ../lib/libfreenect.a -lm -lusb-1.0 /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 

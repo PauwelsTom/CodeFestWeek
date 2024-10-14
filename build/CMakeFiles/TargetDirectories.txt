@@ -1,0 +1,6 @@
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/glview.dir
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/test-cv.dir
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/opencv_kinect.dir
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/calibration.dir
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/edit_cache.dir
+/home/euler/Documents/save-ecole/S8/CodeFestWeek/final/opencv-kinect/build/CMakeFiles/rebuild_cache.dir
